@@ -1,0 +1,4 @@
+version: 2.1
+jobs:
+  build:
+    - image: circleci/golang:1.8
