@@ -2,7 +2,7 @@ package main
 
 import (
   // add packages
-  "rand"
+  // "math/rand"
   "time"
   "math"
   "github.com/go-gl/glfw/v3.2/glfw"
